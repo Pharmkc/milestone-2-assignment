@@ -1,1 +1,13 @@
 # milestone-2-assignment
+FUNCTION: TO create a donor funding model for Anderson Cancer Center using Principal Component Analysis (PCA) to identify vital factors that influences funding.
+Step Taken:
+Import necessary libraries (sklearn, pandas, numpy)
+Load the breast cancer dataset from sklearn.datasets
+Preprocess data
+Apply PCA to reduce dimensionality to 2 components
+Visualize the results Dimensionality Reduction Logistic Regression
+Split data into training and testing sets
+Implement logistic regression using the 2 PCA components
+Evaluate model performance for accuracy
+Ensured Code quality and organization
+
